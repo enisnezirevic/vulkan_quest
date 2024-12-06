@@ -3,4 +3,4 @@
 .vs
 
 # Build files
-.build
+/build/
